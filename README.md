@@ -1,6 +1,6 @@
 ## Lottie example with React Native
 
-This is an example made with [Lottie](lottie-react-native)
+This is an example made with [Lottie](https://github.com/react-native-community/lottie-react-native)
 
 ### Running
 
